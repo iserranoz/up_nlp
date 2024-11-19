@@ -1,0 +1,10 @@
+
+data/.DS_Store
+
+data/data_train_emb.parquet
+
+data/data_test_emb.parquet
+
+.DS_Store
+
+__pycache__/utils_test.cpython-311.pyc
